@@ -10,3 +10,6 @@
   <li> Testes: Postman </li>
   <li> View Engine: Handlebars </li>
 </ul>
+
+
+Comando para iniciar: npm run dev
