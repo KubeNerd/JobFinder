@@ -11,5 +11,5 @@
   <li> View Engine: Handlebars </li>
 </ul>
 
-
+Comando para instalar dependências: npm install
 Comando para iniciar: npm run dev
