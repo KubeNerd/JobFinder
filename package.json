@@ -1,0 +1,21 @@
+{
+    "name": "jobfinder",
+    "version": "1.0.0",
+    "description": "Projeto JobFinder",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "author": "Vinicius Pereira",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "express": "^4.17.1",
+        "express-handlebars": "^4.0.3",
+        "sequelize": "^5.21.6",
+        "sqlite3": "^4.1.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.3"
+    }
+}
